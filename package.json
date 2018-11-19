@@ -1,0 +1,12 @@
+{
+  "name": "CRUD-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dngoyb/CRUD-API.git",
+  "author": "Ngoy BANZA <dngoyb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.0.6"
+  }
+}
